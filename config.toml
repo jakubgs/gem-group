@@ -8,21 +8,21 @@ theme = "serif"
     google_analytics_id=""
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Usługi"
+	url = "/uslugi/"
     weight = 1
 
 [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Zespół"
+    url = "/zespol/"
     weight = 2
 
 [[menu.main]]
-	name = "Testimonials"
-	url = "/testimonials/"
+	name = "Referencje"
+	url = "/referencje/"
 	weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Kontakt"
+    url = "/kontakt/"
     weight = 4
