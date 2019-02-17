@@ -1,7 +1,7 @@
-baseURL = "https://gjs.pl/"
+baseURL = "https://gemgroup.pl/"
 relativeURLs = true
 languageCode = "pl-eu"
-title = "GJS Consulting"
+title = "GEM Group"
 theme = "serif"
 
 [params]
