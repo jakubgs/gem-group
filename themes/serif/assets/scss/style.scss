@@ -80,6 +80,16 @@ body {
   // -ms-text-size-adjust: 100%;
 }
 
+/* EXTRA CSS */
+
+.white-card {
+  border-radius: 0.5em;
+  padding: 1em;
+  background-color: white;
+  border: 0.15em solid #1c3ed3;
+  height: 100%;
+}
+
 // Display breakpoints for DEV
 // body:after {
 //   color: #000000;
