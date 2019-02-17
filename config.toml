@@ -6,6 +6,7 @@ theme = "serif"
 
 [params]
     title = "GEM Group"
+    logo = "images/logo_big_trans.png"
     google_analytics_id=""
 
 [[menu.main]]
