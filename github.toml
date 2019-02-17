@@ -1,0 +1,28 @@
+baseURL = "https://jakubgs.github.io/gem-group/"
+relativeURLs = false
+languageCode = "pl-eu"
+title = "GEM Group"
+theme = "serif"
+
+[params]
+    google_analytics_id=""
+
+[[menu.main]]
+	name = "Usługi"
+	url = "/uslugi/"
+    weight = 1
+
+[[menu.main]]
+    name = "Zespół"
+    url = "/zespol/"
+    weight = 2
+
+[[menu.main]]
+	name = "Referencje"
+	url = "/referencje/"
+	weight = 3
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 4
