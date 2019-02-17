@@ -1,4 +1,5 @@
 baseURL = "https://gjs.pl/"
+relativeURLs = true
 languageCode = "pl-eu"
 title = "GJS Consulting"
 theme = "serif"
