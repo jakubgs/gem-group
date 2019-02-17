@@ -5,6 +5,7 @@ title = "GEM Group"
 theme = "serif"
 
 [params]
+    title = "GEM Group"
     google_analytics_id=""
 
 [[menu.main]]

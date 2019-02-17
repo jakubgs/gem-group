@@ -33,7 +33,7 @@
 <div class="container pt-8 pt-md-12 pb-md-12">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h2 class="mb-3">Services</h2>
+      <h2 class="mb-3">Usługi</h2>
     </div>
     {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
     {{ range first 6 (sort $services ".Params.weight") }}
