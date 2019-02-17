@@ -5,7 +5,7 @@ draft: false
 image: 'team/default.jpg'
 jobtitle: 'Consultant'
 email: 'magda.poradzka@gmail.com'
-linkedinurl: ''
+linkedinurl: 'https://www.linkedin.com/in/magdalena-poradzka-8854488/'
 weight: 2
 ---
 

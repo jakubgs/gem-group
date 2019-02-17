@@ -5,7 +5,7 @@ draft: false
 image: 'team/default.jpg'
 jobtitle: 'Dyrektor'
 email: 'g.sokolowski@gemgroup.pl'
-linkedinurl: 'https://www.linkedin.com/'
+linkedinurl: 'https://www.linkedin.com/in/grzegorz-sokolowski-a461372/'
 weight: 1
 ---
 
