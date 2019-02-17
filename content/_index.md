@@ -5,4 +5,4 @@ date: 2018-02-12T15:37:57+07:00
 
 # GEM Group
 
-Serif is a beautiful small business theme for Hugo. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Pomagamy w skutecznym przeprowadzeniu zmian organizacyjnych. Projektujemy i wdrażamy praktyczne systemy zarządzania ludźmi od rekrutacji, wynagradzania, motywacji i angażowania pracowników. Efektem naszej współpracy będzie narzędzie i wiedza, które pozwolą twojej organizacji skuteczniej konkurować na rynku. 
