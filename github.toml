@@ -5,24 +5,26 @@ title = "GEM Group"
 theme = "serif"
 
 [params]
+    title = "GEM Group"
+    logo = "images/logo_big_trans.png"
     google_analytics_id=""
 
 [[menu.main]]
-	name = "Usługi"
-	url = "/uslugi/"
+    name = "Usługi"
+    url = "/services/"
     weight = 1
 
 [[menu.main]]
     name = "Zespół"
-    url = "/zespol/"
+    url = "/team/"
     weight = 2
 
 [[menu.main]]
-	name = "Referencje"
-	url = "/referencje/"
-	weight = 3
+    name = "Referencje"
+    url = "/testimonials/"
+    weight = 3
 
 [[menu.main]]
     name = "Kontakt"
-    url = "/kontakt/"
+    url = "/contact/"
     weight = 4
