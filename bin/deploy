@@ -7,6 +7,8 @@ hugo --config=github.toml
 
 # Go To Public folder
 cd public
+# Cleanup so we remove unused files
+rm -fr ./*
 # Add changes to git.
 git add .
 
