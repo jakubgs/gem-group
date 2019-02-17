@@ -12,6 +12,6 @@ Doświadczeni asesorzy uczestniczą w spotkaniu (spotkaniach) tego zespołu i na
 * Które podniosą sprawność funkcjonowania w tym zespole, 
 * Których wyeliminowanie podniesie indywidualny wkład w działania zespołu
 
-## Posiadane doświadczenie
+### Doświadczenie
 
 * TTW Sp. z o.o.

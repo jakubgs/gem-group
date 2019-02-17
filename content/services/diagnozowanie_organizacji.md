@@ -19,6 +19,6 @@ Rekomendacje dotyczące działań związanych z zarządzaniem zasobami ludzkimi 
 * priorytety – działania wymagające nakładów ale istotnie zwiększające efektywność organizacji w średniej i dłuższej perspektywie,
 * pozostałe działania prowadzące firmę do właściwego i skutecznego modelu zarządzania zasobami ludzkimi.
 
-## Posiadane doświadczenie
+### Doświadczenie
 
 * Diagnoza kultury organizacyjnej - Energomontaż SA, Spółdzielnia Inwalidów „Jedność”

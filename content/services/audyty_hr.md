@@ -11,7 +11,7 @@ Analiza dokumentacji personalnej od teczek pracowniczych po dokumentację system
 Analiza operacyjnego funkcjonowania działu HR z uwzględnieniem wypełniania bądź nie roli oczekiwanej w organizacji. 
 Rekomendacje proponujące zmiany w obszarach gdzie stwierdzono uchybienia oraz propozycja narzędzia do stałego monitorowania skuteczności działu.
 
-## Posiadane doświadczenie:
+### Doświadczenie
 
 * B.A.T Sp. z o.o.
 * Grupa Żywiec SA

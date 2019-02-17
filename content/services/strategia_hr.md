@@ -12,7 +12,7 @@ Nie tworzymy strategii za klienta, a raczej moderujemy jej powstawanie oraz dbam
 * strategia wraz ze szczegółowym opisem wszystkich procesów zarządzania personelem wspierających klienta w realizacji zadań
 * dokument operacyjny określający wszelkie niezbędne działania służące skutecznej implementacji strategii
 
-## Posiadane doświadczenie
+### Doświadczenie
 
 * B.A.T Sp. z o.o.
 * Grupa Żywiec SA

@@ -11,7 +11,7 @@ Opracowujemy także mechanizmy, które pozwolą zminimalizować w przyszłości 
 Zmiany polegające na redukcji personelu możemy prowadzić zarówno przez planowanie naturalnych odejść, wydzielanie działalności (outsourcing), programy dobrowolnych odejść aż po zwolnienia grupowe.
 Uczestniczymy z klientem we wdrożeniu całego programu aż do osiągnięcia określonych celów projektu na wszystkich etapach włącznie z negocjacjami ze Związkami Zawodowymi, współpracą z kadrą kierowniczą i pracownikami w zakresie przeprowadzania zmian i komunikacji oraz kierownictwem firmy.
 
-## Posiadane doświadczenie:
+### Doświadczenie
 
 * Likwidacja części majątku wytwórczego (zamknięcie browarów w Gdańsku i Łańcucie), zwolnienia grupowe – Grupa Żywiec SA
 * Wydzielenie grup remontowych – Polpharma SA

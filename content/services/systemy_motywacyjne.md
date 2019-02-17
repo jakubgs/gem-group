@@ -8,7 +8,7 @@ draft: false
 ---
 Opracowanie dedykowanego systemu motywowania pracowników. Tworzymy zarówno systemy płacowe jak i pozapłacowe. Opracowujemy systemy motywacyjne uwzględniające priorytety biznesowe firmy. Wspieramy naszych klientów zarówno w tworzeniu poszczególnych elementów systemu (między innymi systemy premiowe, taryfikatory, regulaminy, itp.), jak również opracowujemy kompleksowy system motywowania pracowników włącznie z tworzeniem i wdrożeniem Regulaminu Wynagradzania czy Zakładowego Układu Zbiorowego pracy.
 
-## Doświadczenie
+### Doświadczenie
 
 * System premiowy dla Działu Sprzedaży – ABCO Sp. z o.o., Żywiec SA, Stereo SA
 * System premiowy dla kadry kierowniczej – BAT SA, Polpharma SA, EDF Polska
