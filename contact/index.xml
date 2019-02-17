@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact on GJS Consulting</title>
-    <link>https://gjs.pl/contact/</link>
-    <description>Recent content in Contact on GJS Consulting</description>
+    <title>Contact on GEM Group</title>
+    <link>https://gemgroup.pl/contact/</link>
+    <description>Recent content in Contact on GEM Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-eu</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="https://gjs.pl/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gemgroup.pl/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
