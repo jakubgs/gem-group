@@ -1,10 +1,10 @@
 ---
-title: 'Peter Van Eijk'
+title: 'Grzegorz Sokołowski'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
+image: 'team/default.jpg'
+jobtitle: 'Dyrektor'
+email: 'g.sokolowski@gemgroup.pl'
 linkedinurl: 'https://www.linkedin.com/'
 weight: 1
 ---
