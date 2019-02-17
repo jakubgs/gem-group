@@ -15,7 +15,7 @@
 <div class="container pt-2">
   <div class="call">
     <div class="call-box-top">
-      <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
+      <div class="call-phone"><strong>Telefon: </strong> {{ .Site.Data.contact.phone }} </div>
       <div class="call-email"><strong>Email: </strong>
         <a href="mailto:{{ .Site.Data.contact.email }}">
           {{ .Site.Data.contact.email }}
@@ -23,7 +23,7 @@
       </div>
     </div>
     <div class="call-box-bottom">
-      <a href="{{ .Site.BaseURL }}contact" class="button">Contact</a>
+        <a href="{{ .Site.BaseURL }}contact" class="button">{{ $.Site.Params.Buttons.contact }}</a>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@
     </div>
     {{ end }}
     <div class="col-12 text-center">
-      <a class="button button-primary" href="{{ .Site.BaseURL }}services">View All Services</a>
+      <a class="button button-primary" href="{{ .Site.BaseURL }}services">Zobacz Wszystkie Usługi</a>
     </div>
   </div>
 </div>
